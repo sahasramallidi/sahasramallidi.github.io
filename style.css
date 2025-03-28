@@ -1,0 +1,9 @@
+body{
+    text-align:center;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(188,148,233,1) 100%);
+}
+
+img {
+    width: 400px;
+}
